@@ -106,6 +106,11 @@ This allows the system to combine retrieval of existing legal information with n
 Legal-Intent-Classification-QA/
 │
 ├── legal_chatbot.ipynb
+├── Datasets
+│   │
+│   ├── constitution_articles_cleaned.csv
+│   ├── crpc_clean.csv
+│   └── ipc_clean.csv
 └── README.md
 ```
 The notebook contains the complete workflow, including:
